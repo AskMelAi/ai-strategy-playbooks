@@ -1,5 +1,3 @@
-# ai-strategy-playbooks
-
 # Ai Strategy Playbooks
 
 Step-by-step AI adoption plans tailored by industry.
